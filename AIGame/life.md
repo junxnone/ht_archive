@@ -1,4 +1,4 @@
-@History of NAS
+@History of AI Play Games
 ===============
 
 - 2010 - Atari - DeepMind
